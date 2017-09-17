@@ -1,0 +1,14 @@
+$white : #f00;
+
+$fontsize : 30px;
+
+p {
+	background: #ff0;
+	color: $white;	
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+div {
+font-size: $fontsize ; 
+}
